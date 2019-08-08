@@ -1,7 +1,1 @@
 buildPack: go
-# This is new
-pipelineConfig:
-  pipelines:
-    overrides:
-    - pipeline: release
-
